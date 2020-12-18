@@ -70,6 +70,7 @@ help_two_link: https://twitter.com/theteaguns
 # Build settings
 theme: minima
 plugins:
+  -jekyll-redirect-from
   - jekyll-feed
   - jekyll-last-modified-at
 
