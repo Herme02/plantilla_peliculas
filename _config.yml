@@ -1,5 +1,4 @@
 # Welcome to Jekyll!
-#
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
@@ -29,8 +28,8 @@ use_authors: true #Set this to false to disable showing post authors
 
 brand_logo: logo.png
 brand_name: Odin
-header: How can we help you?
-subheader: Support and documentation for Odin
+header: Estas son las películas
+subheader: Seleccione una pelicula 
 
 meta_image: odin-meta.png
 
