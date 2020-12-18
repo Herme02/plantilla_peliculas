@@ -43,8 +43,8 @@ instagram_username:
 
 
 # Navivation
-nav_item_one: Github
-nav_item_one_link: https://github.com/TeaGuns/odin
+nav_item_one: Nuestro Github
+nav_item_one_link: https://github.com/Herme02/plantilla_peliculas
 
 nav_item_two: Twitter
 nav_item_two_link: https://twitter.com/TheTeaGuns
@@ -57,12 +57,12 @@ nav_button_link: https://teaguns.github.io/odin/
 
 # More Help
 help_one_title: Odin Bugs
-help_one_content: Si encuentra algún error o problema con este tema, abra un problema en Github.
+help_one_content: Si quieres ver nuestra pagina de github
 help_one_button: Nuestra pagina Github
 help_one_link: https://github.com/Herme02/plantilla_peliculas
 
 help_two_title: Twitter y mas
-help_two_content: No dudes en enviarme un tweet si tienes sugerencias para Odin. O si solo quieres saludar.
+help_two_content: Si quieres nuevas categoria envianosla a nuetsro twitter
 help_two_button: Twitter
 help_two_link: https://twitter.com/theteaguns
 
