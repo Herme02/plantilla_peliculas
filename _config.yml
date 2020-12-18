@@ -28,7 +28,11 @@ use_authors: true #Set this to false to disable showing post authors
 
 brand_logo: logo.png
 brand_name: plantilla_peliculas
+<<<<<<< HEAD
 header: Estas son las películas que tenemos disponibles 
+=======
+header: Estas son las peliculas que tenemos disponibles 
+>>>>>>> c9b7780a475e6b4ceca5844d7f3f33e436101526
 subheader: Seleccione una película
 
 meta_image: odin-meta.png
