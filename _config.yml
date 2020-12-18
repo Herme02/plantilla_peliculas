@@ -68,10 +68,10 @@ nav_button_link: https://teaguns.github.io/odin/
 # More Help
 help_one_title: Odin Bugs
 help_one_content: Si encuentra algún error o problema con este tema, abra un problema en Github.
-help_one_button: Github
-help_one_link: https://github.com/TeaGuns/odin/issues
+help_one_button: Nuestra pagina Github
+help_one_link: https://github.com/Herme02/plantilla_peliculas
 
-help_two_title: Twitter
+help_two_title: Twitter y mas
 help_two_content: No dudes en enviarme un tweet si tienes sugerencias para Odin. O si solo quieres saludar.
 help_two_button: Twitter
 help_two_link: https://twitter.com/theteaguns
