@@ -30,11 +30,11 @@ brand_logo: logo.png
 brand_name: plantilla_peliculas
 
 header: Estas son las películas que tenemos disponibles 
-<<<<<<< HEAD
-=======
+
+
 header: Estas son las peliculas que tenemos disponibles 
->>>>>>> c9b7780a475e6b4ceca5844d7f3f33e436101526
-=======
+
+
 
 >>>>>>> d7359e0325c79bd91c4e69b3e255630271af3ba4
 subheader: Seleccione una película
