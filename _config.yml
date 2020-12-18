@@ -27,7 +27,7 @@ content_type: Knowledge Base #Define whether this is a knowledge base, help cent
 use_authors: true #Set this to false to disable showing post authors
 
 brand_logo: logo.png
-brand_name: plantillas_peliculas
+brand_name: plantilla_peliculas
 header: How can we help you?
 subheader: Support and documentation for Odin
 
